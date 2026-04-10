@@ -1,0 +1,7 @@
+# Free Return Moon Trajectory Calculator
+# Requirements — Python >= 3.10
+
+PyQt5>=5.15.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+scipy>=1.10.0
